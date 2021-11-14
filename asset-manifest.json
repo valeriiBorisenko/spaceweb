@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c7434a9.chunk.css",
-    "main.js": "/static/js/main.99ba3930.chunk.js",
-    "main.js.map": "/static/js/main.99ba3930.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ec71e476.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ec71e476.js.map",
-    "static/js/2.551fab97.chunk.js": "/static/js/2.551fab97.chunk.js",
-    "static/js/2.551fab97.chunk.js.map": "/static/js/2.551fab97.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2c7434a9.chunk.css.map": "/static/css/main.2c7434a9.chunk.css.map",
-    "static/js/2.551fab97.chunk.js.LICENSE.txt": "/static/js/2.551fab97.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/static/media/ProximaNova-Regular.d97f8f32.eot",
-    "static/media/News.scss": "/static/media/arrow.e68bdb3f.svg",
-    "static/media/Header.scss": "/static/media/fill.8eb3316c.svg",
-    "static/media/Tab.scss": "/static/media/vps.d94ed3ae.svg",
-    "static/media/MainBar.scss": "/static/media/logo.e4ebeb0f.svg"
+    "main.css": "/spaceweb/static/css/main.2711fc5d.chunk.css",
+    "main.js": "/spaceweb/static/js/main.99ba3930.chunk.js",
+    "main.js.map": "/spaceweb/static/js/main.99ba3930.chunk.js.map",
+    "runtime-main.js": "/spaceweb/static/js/runtime-main.a6d52ebd.js",
+    "runtime-main.js.map": "/spaceweb/static/js/runtime-main.a6d52ebd.js.map",
+    "static/js/2.551fab97.chunk.js": "/spaceweb/static/js/2.551fab97.chunk.js",
+    "static/js/2.551fab97.chunk.js.map": "/spaceweb/static/js/2.551fab97.chunk.js.map",
+    "index.html": "/spaceweb/index.html",
+    "static/css/main.2711fc5d.chunk.css.map": "/spaceweb/static/css/main.2711fc5d.chunk.css.map",
+    "static/js/2.551fab97.chunk.js.LICENSE.txt": "/spaceweb/static/js/2.551fab97.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/spaceweb/static/media/ProximaNova-Regular.d97f8f32.eot",
+    "static/media/News.scss": "/spaceweb/static/media/arrow.e68bdb3f.svg",
+    "static/media/Header.scss": "/spaceweb/static/media/fill.8eb3316c.svg",
+    "static/media/Tab.scss": "/spaceweb/static/media/vps.d94ed3ae.svg",
+    "static/media/MainBar.scss": "/spaceweb/static/media/logo.e4ebeb0f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec71e476.js",
+    "static/js/runtime-main.a6d52ebd.js",
     "static/js/2.551fab97.chunk.js",
-    "static/css/main.2c7434a9.chunk.css",
+    "static/css/main.2711fc5d.chunk.css",
     "static/js/main.99ba3930.chunk.js"
   ]
 }
