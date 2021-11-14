@@ -1,0 +1,65 @@
+@import '../../styles/base.scss';
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  height: 61px;
+  width: 100%;
+  color: $headertext;
+  padding-right: 22px;
+  box-sizing: border-box;
+  list-style: none;
+
+  grid-area: header;
+
+  &__user{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+    &_logo {
+      background-image: url(../../images/fill.svg);
+      width: 15px;
+      height: 17px;
+      color: $notification;
+      position: relative;
+      margin-right: 12px;
+      cursor: pointer;
+    }
+
+    &_amount {
+      width: 12px;
+      height: 12px;
+      background-color: $notification;
+      border-radius: 50%;
+      color: $whitecolor;
+      text-align: center;
+      font-size: 10px;
+      line-height: 12px;
+      position: absolute;
+      top: 0;
+      right: -5px;
+      margin: 0;
+    }
+  }
+
+  &__text {
+    font-size: 12px;
+    line-height: 15px;
+    margin: 0;
+    cursor: pointer;
+  }
+
+  &_list {
+    margin-right: 30px;
+
+    &:last-child{
+      margin: 0;
+    }
+  }
+}

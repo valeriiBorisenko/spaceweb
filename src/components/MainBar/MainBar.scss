@@ -1,0 +1,30 @@
+@import '../../styles/base.scss';
+
+.main-bar {
+
+  grid-area: main-bar;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 100%;
+  background-color: $mainbar;
+  width: 211px;
+  padding-top: 20px;
+  box-sizing: border-box;
+
+  &__logo {
+    background-image: url(../../images/logo.svg);
+    width: 113px;
+    height: 21px;
+    margin-left: 20px;
+  }
+
+  &__tabs {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-top: 56px;
+    color: $whitecolor;
+  }
+
+}

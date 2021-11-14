@@ -1,0 +1,40 @@
+@import '../../styles/base.scss';
+
+.main {
+  grid-area: main;
+  flex: 1;
+  height: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  margin: 0 20px;
+  background: $whitecolor;
+  box-shadow: 1px 1px 4px #E3E9EC;
+
+  &__container {
+    padding: 16px 0;
+  }
+
+  &__subtitle {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    color: $titlecolor;
+    padding-left: 20px;
+  }
+
+  &__title {
+    margin: 0 20px;
+    padding: 0;
+    padding-bottom: 16px;
+    color: $titlecolor;
+    text-transform: uppercase;
+    border-bottom: 2px solid #F7FAFB;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
